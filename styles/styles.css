@@ -1,0 +1,43 @@
+
+a:hover {
+    color: rgb(47, 0, 255);
+    width: 500px;
+    border: 2px solid black;
+  } 
+
+html { 
+    
+    font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Josefin Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */ 
+    background-color: #7da82c; /*background-color: #ffae00b4*/
+        }
+    h1 {
+        font-size: 60px;
+        text-align: center;
+      }
+      
+      p, li {
+        font-size: 16px;
+        line-height: 2;
+        letter-spacing: 1px;
+      }  
+
+      body {
+        width: 1050px;
+        margin: 0 auto;
+        background-color: /*#ffae00b4*/#c4a624;
+        padding: 0 10px 10px 10px;
+        border: 10px solid black; 
+        } 
+        h1 {
+            margin: 5;
+            padding: 20px 0;
+            color: #010a13;
+            /*text-shadow: 1px 1px 1px black;*/
+          }
+          img {
+            display: block;
+            margin: 0 auto;
+          } 
+
+      
